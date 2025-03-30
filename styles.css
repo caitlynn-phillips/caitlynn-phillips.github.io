@@ -39,14 +39,12 @@ h2 {
     padding-left: 10px;
 }
 
-/* Paragraphs */
 p {
     font-size: 16px;
     line-height: 1.6;
     color: #b1bac4;
 }
 
-/* Links */
 a {
     color: #58a6ff;
     text-decoration: none;
@@ -58,7 +56,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* List Styling */
 ul {
     list-style: none;
     padding-left: 15px;
